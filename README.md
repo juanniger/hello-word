@@ -1,4 +1,4 @@
 # hello-word
 Tradicional repository
 
-I'm an electrical engineer who is very interested in the programming world. I have experience in python and C programming lenguajes. 
+Soy un engeniero electricista que le gusta mucho la programación. 
